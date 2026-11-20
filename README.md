@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Python, C/C++, SQL, TypeScript, JavaScript
+- **Languages:** Python, Java, C, SQL, TypeScript, JavaScript
 - **ML / AI Tools:** Scikit-Learn, XGBoost, Pandas, NumPy, Logistic Regression, Random Forest
 - **Development:** FastAPI, React, Vite, Git, Docker
 - **Core CS:** Data Structures & Algorithms (DSA), OOPs, DBMS
