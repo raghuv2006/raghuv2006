@@ -30,6 +30,25 @@
 
 ---
 
-### 📊 GitHub Stats
-![Raghuvansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghuv2006&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghuv2006&layout=compact&theme=radical)
+### 📊 Competitive Programming & DSA Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Raghuvansh2006/">
+    <img src="https://leetcard.jacoblin.cool/Raghuvansh2006?theme=radical" alt="Raghuvansh's LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/sharmaragh6b3q">
+    <img src="https://gfgstatscard.vercel.app/sharmaragh6b3q" alt="Raghuvansh's GeeksforGeeks Stats" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghuv2006&show_icons=true&theme=radical" alt="Raghuvansh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghuv2006&layout=compact&theme=radical" alt="Top Langs" />
+</p>
